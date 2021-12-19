@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Patricia011004
-- 👀 I’m interested in audio programming and non-linear sound desing!
+- 👀 I’m interested in audio programming and non-linear sound design!
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on audio technologist.
 
